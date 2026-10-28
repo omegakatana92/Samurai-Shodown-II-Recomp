@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Samurai Shodown II
+GenericName=Neo Geo fighting game (native recompilation)
+Comment=Native static recompilation of Samurai Shodown II - Haohmaru Jigokuhen
+Exec=Samsho2
+Icon=samsho2
+Categories=Game;ArcadeGame;
+Terminal=false
+X-AppImage-Name=Samurai Shodown II
+X-AppImage-Version=0.1.0

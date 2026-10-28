@@ -1,0 +1,10 @@
+# Samurai Shodown II - boot to a match: coin, start, skip the intro, choose
+# the default character and stage.  Frame numbers count from power-on; the
+# MVS eyecatcher ends around frame 600 and the title appears around 1200.
+900 coin
+1000 start
+1600 start
+1900 start
+2500 a
+2800 a
+3000-3400 a
